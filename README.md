@@ -20,7 +20,7 @@ It is recommended to complete this assignment in a group of 2-4 students.
 1. Min Khant
 2. Khun Pyae Heinn
 3. Naing Phone Pyae
-4. Name 4
+4. Nang Kaung Shan Kham
 
 
 # Project planning BEFORE iteration-1, (see chapters 1-3)
