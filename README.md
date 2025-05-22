@@ -6,14 +6,8 @@ How to edit this: test-2025
 # MyClean – Smart Cleaning Service Booking and Management Platform with Cloud Integration
 
 
-This a project assignment template for CP3407. 
-The following is the list of items, which are required to be completed.
-
-## How to submit [You may delete this before submitting]
-
-2. Add your instructor (JCU-Australia: jc138691@gmail.com Dmitry Konovalov) as a team member to view your project on github
-1. Submit link to your repository
-2. Download your github repository as a zip file and submit via LearnJCU.
+## Project Overview
+MyClean is a booking management application designed to help individual cleaners and cleaning companies manage their appointments, payments, and client communication efficiently. It also provides customers with a user-friendly platform to easily book, track, and review cleaning services.
 
 ## Team
 
@@ -35,47 +29,99 @@ Checklist/TODOs:
 
 Total: YY days
 
-## Week 1
-### Project Goals
-The goal of the MyClean project is to design and implement a cloud-powered platform that allows customers to easily book cleaning services and enables providers to manage appointments, payments, and customer relationships. The platform will be accessible via web and mobile devices and offer robust functionality for both user groups.
+## Week 1  
+### Project Goals  
+The goal of the **MyClean** project is to design and implement a cloud-powered platform that enables customers to easily book cleaning services and allows service providers to efficiently manage appointments, payments, and customer relationships. The platform will be accessible via both web and mobile devices, delivering robust and intuitive functionality tailored for both user groups.
+
+---
 
 ### Key Features
-1. **Real-Time Booking and Calendar Integration:** MyClean will allow end-users to browse available service providers, view open time slots, and schedule cleaning appointments. Integration with calendar APIs (e.g., Google Calendar, Apple Calendar) will help sync schedules for both parties.
-3. **Payment Gateway Integration:** The app will support secure payments using popular methods like credit cards, e-wallets, and online banking. Payment processing will be handled through mock interfaces during development, with real integrations planned for production (e.g., Stripe or PayPal).
-4. **Cloud-Based Data Storage and User Management:** User profiles, booking history, service preferences, and payment records will be securely stored using cloud services such as Amazon S3 and DynamoDB. AWS Cognito will handle secure user authentication and role-based access.
-5. **Service Provider Dashboard:** Cleaners and cleaning companies will have access to a management dashboard featuring: Booking history, Earnings reports, Client reviews and Profile customization (services offered, pricing, availability)
-6. **End-User Portal:** Clients will be able to: Book one-time or recurring cleanings, Rate and review service providers, Receive real-time appointment updates and reminders, and View past bookings and payments
-7. **In-App Messaging and Notifications:** Built-in messaging will allow clients and providers to communicate regarding appointment details, custom requests, or rescheduling. Notifications (via email or push) will alert users about confirmations, changes, and promotions.
-8. **Unique Selling Points (USP):** Smart Matching System: AI-based algorithms will match users with providers based on location, availability, service type, and ratings.
-Eco-Friendly Tagging: Providers can tag themselves as eco-friendly to attract environmentally conscious customers.
-Subscription Plans: Users can sign up for regular cleaning services (e.g., weekly or monthly) at discounted rates.
-9. **Analytics and Reporting:** Service providers will gain access to analytical tools showing trends in client behavior, peak booking times, and earnings over time. This feature helps them plan and optimize business operations.
 
+1. **Real-Time Booking and Calendar Integration**  
+   End-users can browse available service providers, view open time slots, and schedule cleaning appointments. Integration with calendar APIs (e.g., Google Calendar, Apple Calendar) will synchronize schedules for both customers and providers.
 
-## Iteration 1 [duration 3-4 weeks], add your start and end dates 
+2. **Payment Gateway Integration**  
+   The app will support secure payments through popular methods such as credit cards, e-wallets, and online banking. Payment processing will initially use mock interfaces during development, with plans to integrate real payment gateways (e.g., Stripe, PayPal) for production.
 
-* Goal is to have 2 iterations during a trimester of teaching.
-* Update the following during each week prac session
-* During pracs, you may experiment with using other github ways of tracking changes, e.g. via pull requests.
+3. **Cloud-Based Data Storage and User Management**  
+   User profiles, booking history, service preferences, and payment records will be securely stored using cloud services like Amazon S3 and DynamoDB. AWS Cognito will manage secure user authentication and role-based access control.
 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+4. **Service Provider Dashboard**  
+   Cleaners and cleaning companies will access a management dashboard featuring:  
+   - Booking history  
+   - Earnings reports  
+   - Client reviews  
+   - Profile customization (services offered, pricing, availability)
 
-Total: YY days
+5. **End-User Portal**  
+   Clients will be able to:  
+   - Book one-time or recurring cleaning services  
+   - Rate and review service providers  
+   - Receive real-time appointment updates and reminders  
+   - View past bookings and payment history
 
+6. **In-App Messaging and Notifications**  
+   Built-in messaging will facilitate communication between clients and providers regarding appointment details, custom requests, or rescheduling. Notifications via email or push alerts will inform users of confirmations, changes, and promotions.
 
-### Iteration 2 [duration 3-4 weeks], add your start and end dates
-Goal is to have 2 iterations during a trimester of teaching.
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+7. **Unique Selling Points (USP)**  
+   - **Smart Matching System:** AI-based algorithms will match users with providers based on location, availability, service type, and ratings.  
+   - **Eco-Friendly Tagging:** Providers can label themselves as eco-friendly to attract environmentally conscious customers.  
+   - **Subscription Plans:** Users can subscribe to regular cleaning services (e.g., weekly, monthly) with discounted rates.
 
-Total: YY days
+8. **Analytics and Reporting**  
+   Service providers will have access to analytical tools that display trends in client behavior, peak booking times, and earnings over time, aiding in business planning and optimization.
 
-### Not enough time/developers: 
-1. [user story title](./user_stories/user_story_01_title.md), priority XX, YY days 
-2. ...
+## Initial Backlog Ideas
 
-Total: YY days
+| Priority | User Story                                                                                     |
+|----------|------------------------------------------------------------------------------------------------|
+| High     | As a user, I want to register and log in securely, so I can access my personalized dashboard.  |
+| High     | As a customer, I want to browse available cleaning services, so I can choose the right one.    |
+| High     | As a cleaner, I want to manage my booking calendar, so I can keep track of appointments.       |
+| Medium   | As a customer, I want to make payments through the app, so I don’t have to pay in person.      |
+| Medium   | As a user, I want to receive notifications about upcoming appointments, so I don’t miss them.  |
+| Medium   | As a customer, I want to track the status of my cleaning appointments in real-time.            |
+| Low      | As a cleaner, I want to see monthly analytics of my bookings and earnings.                     |
+| Low      | As a customer, I want to rate and review the cleaning service after completion.                |
+| Low      | As a service provider, I want to manage my profile including services offered and pricing.     |
+
+---
+
+## Iteration 1 [3-4 weeks] (Start: DD/MM/YYYY - End: DD/MM/YYYY)
+
+Goals: Implement core user authentication, browsing, and booking management functionality.
+
+1. User registration and login (priority: High)  
+2. Service browsing and selection for customers (priority: High)  
+3. Booking calendar management for cleaners (priority: High)  
+
+**Total estimated effort:** XX days
+
+---
+
+## Iteration 2 [3-4 weeks] (Start: DD/MM/YYYY - End: DD/MM/YYYY)
+
+Goals: Add payment processing, notifications, and review system.
+
+1. Payment gateway integration and invoicing (priority: Medium)  
+2. Appointment notifications and reminders (priority: Medium)  
+3. Reviews and ratings for service providers (priority: Low)  
+
+**Total estimated effort:** XX days
+
+---
+
+## Not enough time/developers
+
+In case of limited resources, these features can be deprioritized:
+
+1. Monthly booking and earnings analytics (priority: Low)  
+2. Real-time appointment status tracking (priority: Medium)  
+3. Service provider profile management (priority: Low)  
+
+**Total estimated effort:** XX days
+
+---
 
 # Actual iterations
 1. [Iteration-1](./iteration_1.md)
