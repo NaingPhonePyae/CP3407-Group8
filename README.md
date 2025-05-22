@@ -3,7 +3,13 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated".
 
+<<<<<<< HEAD
 # MyClean App Development - CP3407 Project Group 8
+=======
+# cp3407-project-v2024 template [Delete or change to your team/project name before submitting]
+# MyClean – Smart Cleaning Service Booking and Management Platform with Cloud Integration
+
+>>>>>>> fbb37687b8f5eb49b34ab8c006e9e5086d38bf18
 
 This a project assignment template for CP3407. 
 The following is the list of items, which are required to be completed.
@@ -33,6 +39,22 @@ Checklist/TODOs:
 * ...
 
 Total: YY days
+
+## Week 1
+### Project Goals
+The goal of the MyClean project is to design and implement a cloud-powered platform that allows customers to easily book cleaning services and enables providers to manage appointments, payments, and customer relationships. The platform will be accessible via web and mobile devices and offer robust functionality for both user groups.
+
+### Key Features
+1. **Real-Time Booking and Calendar Integration:** MyClean will allow end-users to browse available service providers, view open time slots, and schedule cleaning appointments. Integration with calendar APIs (e.g., Google Calendar, Apple Calendar) will help sync schedules for both parties.
+3. **Payment Gateway Integration:** The app will support secure payments using popular methods like credit cards, e-wallets, and online banking. Payment processing will be handled through mock interfaces during development, with real integrations planned for production (e.g., Stripe or PayPal).
+4. **Cloud-Based Data Storage and User Management:** User profiles, booking history, service preferences, and payment records will be securely stored using cloud services such as Amazon S3 and DynamoDB. AWS Cognito will handle secure user authentication and role-based access.
+5. **Service Provider Dashboard:** Cleaners and cleaning companies will have access to a management dashboard featuring: Booking history, Earnings reports, Client reviews and Profile customization (services offered, pricing, availability)
+6. **End-User Portal:** Clients will be able to: Book one-time or recurring cleanings, Rate and review service providers, Receive real-time appointment updates and reminders, and View past bookings and payments
+7. **In-App Messaging and Notifications:** Built-in messaging will allow clients and providers to communicate regarding appointment details, custom requests, or rescheduling. Notifications (via email or push) will alert users about confirmations, changes, and promotions.
+8. **Unique Selling Points (USP):** Smart Matching System: AI-based algorithms will match users with providers based on location, availability, service type, and ratings.
+Eco-Friendly Tagging: Providers can tag themselves as eco-friendly to attract environmentally conscious customers.
+Subscription Plans: Users can sign up for regular cleaning services (e.g., weekly or monthly) at discounted rates.
+9. **Analytics and Reporting:** Service providers will gain access to analytical tools showing trends in client behavior, peak booking times, and earnings over time. This feature helps them plan and optimize business operations.
 
 
 ## Iteration 1 [duration 3-4 weeks], add your start and end dates 
