@@ -1,0 +1,3 @@
+### User Stories (Backlog)  
+- [1] **Secure User Registration and Login** | Priority: High | Estimate: X days  
+  - *Description*: As a user, I want to register and log in securely, so I can access my personalized dashboard. This includes creating a user account, logging in with email and password, securely storing credentials, and accessing role-based dashboards for customers and service providers. 
