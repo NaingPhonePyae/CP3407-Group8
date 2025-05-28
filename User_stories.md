@@ -34,3 +34,13 @@
 **Title:** Monthly Analytics of Cleaner’s Bookings and Earnings  
 **Description:** As a cleaner, I want to see my monthly bookings and earnings. This should show me total bookings and total earnings so that I can plan my bookings effectively. This should also have a filter function and show transactions by date.  
 **Effort Estimate:** X days  
+
+**User Story 8:**  
+**Title:** Receive Appointment Notifications  
+**Description:** As a user, I want to receive notifications about upcoming cleaning appointments, so I don’t miss them.  
+**Effort Estimate:** X days  
+
+**User Story 9:**  
+**Title:** Rate and Review Completed Cleaning Service  
+**Description:** As a customer, I want to rate and review the cleaning service after completion.  
+**Effort Estimate:** X days
