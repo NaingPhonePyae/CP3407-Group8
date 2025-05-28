@@ -7,9 +7,15 @@
 
 - [3] **Manage Booking Calendar** | Priority: High | Estimate: X days
   - *Description*: As a cleaner, I want to manage my booking calendar, so I can keep track of appointments. This includes integrating with calendar services, blocking out unavailable dates, viewing scheduled jobs, and updating availability in real-time.
-    
-  - [6] **Real-time tracking cleaning appointments** | Priority: Medium | Estimate: X days
-**Description**: As a customer, I want to be able to see the status of my booking appointments in real-time. This should let me know if my booking is paid and accepted, denied, or waiting for payment.
+   
+- [4] **Support Billing and Invoicing** | Priority: High | Estimate: X days
+  - *Description*: As a cleaning service provider, I want the cleaning booking system to support billing and invoicing functionalities so that we can offer more convenient payment methods to customers. This involves collecting billing details, creating invoices for services provided, and keeping track of payment history.
 
-- [7] **1. Monthly analytics of cleaner's bookings and earnings** | Priority: Medium | Estimate: X days
-**Description**: As a cleaner, I want to see my monthly bookings and earnings. This should show me total bookings and total earnings so that I can plan my bookings effectively. This should also have a filter function and show transactions by date.
+- [5] **Store Customer Information in Database** | Priority: Low | Estimate: X days
+  - *Description*: As a cleaning service provider, I want the cleaning booking system to store and manage customer information securely in a database so that we can reach out to them immediately. This involves collecting personal details, addresses, preferences (if applicable), and contact information. The system should ensure data accuracy and allow easy retrieval and updating of customer records.
+    
+- [6] **Real-time tracking cleaning appointments** | Priority: Medium | Estimate: X days
+  - **Description**: As a customer, I want to be able to see the status of my booking appointments in real-time. This should let me know if my booking is paid and accepted, denied, or waiting for payment.
+
+- [7] **Monthly analytics of cleaner's bookings and earnings** | Priority: Medium | Estimate: X days
+  - **Description**: As a cleaner, I want to see my monthly bookings and earnings. This should show me total bookings and total earnings so that I can plan my bookings effectively. This should also have a filter function and show transactions by date.
