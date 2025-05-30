@@ -78,7 +78,7 @@ The goal of the **MyClean** project is to design and implement a cloud-powered p
 | High     | As a user, I want to register and log in securely, so I can access my personalized dashboard.  |
 | High     | As a customer, I want to browse available cleaning services, so I can choose the right one.    |
 | High     | As a cleaner, I want to manage my booking calendar, so I can keep track of appointments.       |
-| Medium   | As a customer, I want to make payments through the app, so I don’t have to pay in person.      |
+| High     | As a customer, I want to make payments through the app, so I don’t have to pay in person.      |
 | Medium   | As a user, I want to receive notifications about upcoming appointments, so I don’t miss them.  |
 | Medium   | As a customer, I want to track the status of my cleaning appointments in real-time.            |
 | Low      | As a cleaner, I want to see monthly analytics of my bookings and earnings.                     |
