@@ -75,15 +75,15 @@ The goal of the **MyClean** project is to design and implement a cloud-powered p
 
 | Priority | User Story                                                                                     |
 |----------|------------------------------------------------------------------------------------------------|
-| High     | As a user, I want to register and log in securely, so I can access my personalized dashboard.  |
-| High     | As a customer, I want to browse available cleaning services, so I can choose the right one.    |
-| High     | As a cleaner, I want to manage my booking calendar, so I can keep track of appointments.       |
-| High     | As a customer, I want to make payments through the app, so I don’t have to pay in person.      |
-| Medium   | As a user, I want to receive notifications about upcoming appointments, so I don’t miss them.  |
-| Medium   | As a customer, I want to track the status of my cleaning appointments in real-time.            |
-| Low      | As a cleaner, I want to see monthly analytics of my bookings and earnings.                     |
-| Low      | As a customer, I want to rate and review the cleaning service after completion.                |
-| Low      | As a service provider, I want to manage my profile including services offered and pricing.     |
+| High     | As a cleaning service provider, I want to allow the clients and employees to register and log in securely, so they can access my personalized dashboard.  |
+| High     | As a cleaning service provider, I want to featue available cleaning services to the customers, so that they can browse them    |
+| High     | As a cleaning service provider, I want to manage my booking calendar, so that our employees can keep track of appointments.       |
+| High     | As a cleaning service provider, I want to support payments through the app, so that the customers don’t have to pay in person.      |
+| Medium   | As a cleaning service provider, I want to receive notifications about upcoming appointments, so I don’t miss them.  |
+| Medium   | As a cleaning service provider, I want to track the status of my cleaning appointments and show them in real-time.            |
+| Low      | As a cleaning service provider, I want to see monthly analytics of my bookings and earnings.                     |
+| Low      | As a cleaning service provider, I want to receive ratings and reviews for the cleaning service after completion.                |
+| Low      | As a cleaning service provider, I want to manage my profile including services offered and pricing.     |
 
 ---
 
