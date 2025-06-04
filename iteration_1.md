@@ -4,9 +4,9 @@ Checklist:
 1. github entry timestamps
 2. User stories are correct: see p39
 
-* Assumed Velocity: 4(member) * 20(days) * 0.7(efficiency) = 56 days
+* Assumed Velocity: 4(member) * 16(days) * 0.7(efficiency) = 45 days
 * Number of developers: 4
-* Total estimated amount of work: 25/0.7 = 36 days
+* Total estimated amount of work: 16/0.7 = 23 days
 
 User stories or tasks: 
 - [1] **Browse Cleaning Services** | Priority: 10 | Estimate: 3 days 
