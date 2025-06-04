@@ -9,12 +9,11 @@ Checklist:
 * Total estimated amount of work: YY days
 
 User stories or tasks: 
-1. [Secure User Registration and Login](./user_stories/user_story_secure_user_regisstration.md), priority 20, YY days
-2. [Browse Cleaning Services](./user_stories/user_story_manage_booking_calendar.md), priority 10, YY days
-3. [Manage Booking Calendar](./user_stories/user_story_manage_booking_calendar.md), priority 20, YY days
-4. [Support Billing and Invoicing](./user_stories/user_story_billing_and_invoicing.md), priority 20, YY days
-5. [Real-time Tracking Cleaning Appointments](./user_stories/user_story_billing_and_invoicing.md), priority 20, YY days
-
+- [1] **Browse Cleaning Services** | Priority: 10 | Estimate: 3 days 
+- [2] **Support Billing and Invoicing** | Priority: 10 | Estimate: 3 days 
+- [3] **Secure User Registration and Login** | Priority: 20 | Estimate: 3 days
+- [4] **Manage Booking Calendar** | Priority: 20 | Estimate: 4 days
+- [5] **Real-time Tracking Cleaning Appointments** | Priority: 30 | Estimate: 3 days 
 
 In progress:
 * Task-2 (developer name or initials), date started
