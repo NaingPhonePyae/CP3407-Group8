@@ -87,15 +87,17 @@ The goal of the **MyClean** project is to design and implement a cloud-powered p
 
 ---
 
-## Iteration 1 [3-4 weeks] (Start: DD/MM/YYYY - End: DD/MM/YYYY)
+## Iteration 1 [3-4 weeks] (Start: DD/MM/2025 - End: DD/MM/2025)
 
-Goals: Implement core user authentication, browsing, and booking management functionality.
+Goals: Implement core user authentication, browsing, and booking management functionalities such as calender, real-time status tracking and payment system.
 
 1. User registration and login (priority: High)  
-2. Service browsing and selection for customers (priority: High)  
-3. Booking calendar management for cleaners (priority: High)  
+2. Service browsing and selection for customers (priority: Medium)  
+3. Booking calendar management for cleaners (priority: Medium)
+4. Browse cleaning services (priority: Low)
+5. Support billing and invoicing (priority: Low)
 
-**Total estimated effort:** XX days
+**Total estimated effort:** 23 days
 
 ---
 
