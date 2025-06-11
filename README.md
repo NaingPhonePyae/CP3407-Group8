@@ -3,11 +3,11 @@ How to edit this: test-2025
 * Option-1 (tested and worked ok): PyCharm supports editing of these .md files. Then you need to push to the main branch or make a pull request.
 * Option-2 (tested ok): Edit and commit it directly on github. Then any local repo copies will need to be "updated
 
-# MyClean – Smart Cleaning Service Booking and Management Platform with Cloud Integration
+# SparkleClean – Smart Cleaning Service Booking and Management Platform with Cloud Integration
 
 
 ## Project Overview
-MyClean is a booking management application designed to help individual cleaners and cleaning companies manage their appointments, payments, and client communication efficiently. It also provides customers with a user-friendly platform to easily book, track, and review cleaning services.
+SparkleClean is a booking management application designed to help individual cleaners and cleaning companies manage their appointments, payments, and client communication efficiently. It also provides customers with a user-friendly platform to easily book, track, and review cleaning services.
 
 ## Team
 
@@ -31,7 +31,7 @@ Total: YY days
 
 ## Week 1  
 ### Project Goals  
-The goal of the **MyClean** project is to design and implement a cloud-powered platform that enables customers to easily book cleaning services and allows service providers to efficiently manage appointments, payments, and customer relationships. The platform will be accessible via both web and mobile devices, delivering robust and intuitive functionality tailored for both user groups.
+The goal of the **SparkleClean** project is to design and implement a cloud-powered platform that enables customers to easily book cleaning services and allows service providers to efficiently manage appointments, payments, and customer relationships. The platform will be accessible via both web and mobile devices, delivering robust and intuitive functionality tailored for both user groups.
 
 ---
 
